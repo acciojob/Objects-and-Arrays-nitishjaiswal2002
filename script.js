@@ -13,9 +13,6 @@ var team1 = players.slice(); // This will be a copy of players
 
 var cap1 = Object.assign({}, person); // This will be a copy of person
 
-var team(players)
-var team1(players)
-var cap1(person)
 
 
 window.players = players;
